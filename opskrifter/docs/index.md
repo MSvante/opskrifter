@@ -1,17 +1,26 @@
-# Welcome to MkDocs
+# Velkommen til Mine Opskrifter 🍳
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+En samling af mine yndlingsopskrifter - fra hverdagsmad til festmåltider.
 
-## Commands
+## Kategorier
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+### 🍽️ Hverdagsmad
+Nemme og velsmagende hverdagsretter, der passer til hele familien.
 
-## Project layout
+- [Pizza Bolo](hverdagsmad/pizza-bolo.md)
+- [Asiatisk Nudelsalat](hverdagsmad/asiatisk-nudelsalat.md)
+- [Kylling Pastasuppe](hverdagsmad/kylling-pastasuppe.md)
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+### 🥗 Salater
+Friske og farverige salater til enhver anledning.
+
+- [Asiatisk Nudelsalat](hverdagsmad/asiatisk-nudelsalat.md)
+
+### 🍰 Desserts
+Søde sager til afslutning på måltidet.
+
+*Kommer snart...*
+
+## Om Samlingen
+
+Denne samling indeholder opskrifter inspireret af det enkle køkken - velsmagende mad med gode råvarer. Alle opskrifter er testet og godkendt af familien!

@@ -1,4 +1,57 @@
-site_name: Mine opskrifter
+site_name: Mine Opskrifter
+site_description: En samling af mine yndlingsopskrifter
 repo_url: https://github.com/MSvante/opskrifter
 repo_name: GitHub
 dev_addr: 127.0.0.1:4000
+
+theme:
+  name: material
+  language: da
+  palette:
+    - scheme: default
+      primary: orange
+      accent: deep orange
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      primary: orange
+      accent: deep orange
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - search.highlight
+    - search.share
+    - content.code.copy
+
+nav:
+  - Hjem: index.md
+  - Hverdagsmad:
+    - Pizza Bolo: hverdagsmad/pizza-bolo.md
+    - Asiatisk Nudelsalat: hverdagsmad/asiatisk-nudelsalat.md
+    - Kylling Pastasuppe: hverdagsmad/kylling-pastasuppe.md
+
+plugins:
+  - search:
+      lang: da
+  
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+  - admonition
+  - pymdownx.details
+  - pymdownx.tabbed:
+      alternate_style: true
+  - attr_list
+  - md_in_html
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
