@@ -1,1 +1,4 @@
-site_name: My Docs
+site_name: Mine opskrifter
+repo_url: https://github.com/MSvante/opskrifter
+repo_name: GitHub
+dev_addr: 127.0.0.1:4000
