@@ -1,5 +1,6 @@
 site_name: Mine Opskrifter
 site_description: En samling af mine yndlingsopskrifter
+site_url: https://MSvante.github.io/opskrifter/
 repo_url: https://github.com/MSvante/opskrifter
 repo_name: GitHub
 dev_addr: 127.0.0.1:4000
@@ -35,6 +36,17 @@ nav:
     - Pizza Bolo: hverdagsmad/pizza-bolo.md
     - Asiatisk Nudelsalat: hverdagsmad/asiatisk-nudelsalat.md
     - Kylling Pastasuppe: hverdagsmad/kylling-pastasuppe.md
+    - Pasta Carbonara: hverdagsmad/pasta-carbonara.md
+    - Fyldt Kyllingefilet med Feta: hverdagsmad/kyllingefilet-med-feta.md
+  - Vegetariske Retter:
+    - Ratatouille: vegetar/ratatouille.md
+    - Risotto med Svampe: vegetar/risotto-med-svampe.md
+  - Forretter:
+    - Klassisk Bruschetta: forretter/bruschetta.md
+    - Hjemmelavet Hummus: forretter/hummus.md
+  - Desserter:
+    - Klassisk Chokoladekage: desserts/chokoladekage.md
+    - Tiramisu: desserts/tiramisu.md
 
 plugins:
   - search:
