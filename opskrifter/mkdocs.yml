@@ -38,15 +38,39 @@ nav:
     - Kylling Pastasuppe: hverdagsmad/kylling-pastasuppe.md
     - Pasta Carbonara: hverdagsmad/pasta-carbonara.md
     - Fyldt Kyllingefilet med Feta: hverdagsmad/kyllingefilet-med-feta.md
+    - Frikadeller: hverdagsmad/frikadeller.md
+    - Flæskesteg: hverdagsmad/flæskesteg.md
+    - Stegt Flæsk med Persillesovs: hverdagsmad/stegt-flæsk-med-persillesovs.md
+    - Hakkebøf med Løg: hverdagsmad/hakkebof.md
+    - Tarteletter: hverdagsmad/tarteletter.md
+    - Biksemad: hverdagsmad/biksemad.md
+    - Leverpostej: hverdagsmad/leverpostej.md
   - Vegetariske Retter:
     - Ratatouille: vegetar/ratatouille.md
     - Risotto med Svampe: vegetar/risotto-med-svampe.md
+    - Grønkålssalat: vegetar/grønkålssalat.md
+    - Ovnristede Rodfrugter: vegetar/rodfrugter-fra-ovnen.md
+    - Grøntsagsgryde: vegetar/grøntsagsgryde.md
+  - Fisk:
+    - Stegt Rødspætte: fisk/stegt-rødspætte.md
+    - Fiskefrikadeller: fisk/fiskefrikadeller.md
+    - Fiskeboller i Karrysovs: fisk/fiskeboller.md
   - Forretter:
     - Klassisk Bruschetta: forretter/bruschetta.md
     - Hjemmelavet Hummus: forretter/hummus.md
-  - Desserter:
+    - Gravlaks: forretter/gravlaks.md
+    - Blomkålssuppe: forretter/blomkålssuppe.md
+    - Sild med Løg: forretter/sild-med-løg.md
+  - Desserter & Kager:
     - Klassisk Chokoladekage: desserts/chokoladekage.md
     - Tiramisu: desserts/tiramisu.md
+    - Rødgrød med Fløde: desserts/rødgrød-med-fløde.md
+    - Pandekager: desserts/pandekager.md
+    - Drømmekage: kager/drømmekage.md
+    - Æblekage: kager/æblekage.md
+    - Hindbærsnitter: kager/hindbærsnitter.md
+    - Kringle: kager/kringle.md
+    - Brunede Kartofler: kager/brunede-kartofler.md
 
 plugins:
   - search:
